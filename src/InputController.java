@@ -58,7 +58,7 @@ public class InputController {
     }
 
     private void printAnswer() {
-        System.out.println(input + "? Are you insane??...");
+        System.out.println(input + "Recieving Answer");
         System.out.println("..." + ball.getRandomAnswer());
         System.out.println();
     }
